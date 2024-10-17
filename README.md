@@ -1,1 +1,1 @@
-![Snake Animation](https://raw.githubusercontent.com/laerttt/laerttt/output/github-contribution-grid-snake-dark.svg)
+![Snake Animation](https://raw.githubusercontent.com/laerttt/laerttt/output/github-contribution-grid-snake.svg)

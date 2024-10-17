@@ -1,3 +1,3 @@
-<img src="https://raw.githubusercontent.com/laerttt/laerttt/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/laerttt/laerttt/snake.svg" alt="Snake animation" />
 
 ###

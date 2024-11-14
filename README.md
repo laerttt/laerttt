@@ -1,6 +1,5 @@
 ![Snake Animation](https://raw.githubusercontent.com/laerttt/laerttt/output/github-contribution-grid-snake-dark.svg)
 
----
 ![Java](https://img.shields.io/badge/Java-CB2E27?logo=oracle&style=flat-square) 
 ![Laravel](https://img.shields.io/badge/Laravel-CB2E27?logo=laravel&logoColor=white&style=flat-square)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?color=905393&logo=cshrp&logoColor=white&style=flat-square)

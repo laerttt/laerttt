@@ -8,3 +8,5 @@
 ![C](https://img.shields.io/badge/C-235697?logo=c&logoColor=white&style=flat-square) 
 ![Cpp](https://img.shields.io/badge/C++-387EC7?logo=c%2B%2B&style=flat-square) 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFD64B&style=flat-square)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=laerttt&locale=en&hide_title=true&layout=compact&card_width=900&langs_count=11&theme=dark&hide_border=true&order=2&bg_color=00000000)

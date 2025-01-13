@@ -1,5 +1,5 @@
 ![Snake Animation](https://raw.githubusercontent.com/laerttt/laerttt/output/github-contribution-grid-snake-dark.svg)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=laerttt&locale=en&hide_title=false&layout=compact&card_width=900&langs_count=11&theme=dark&hide_border=true&order=2&bg_color=00000000)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=laerttt&locale=en&hide_title=false&layout=compact&card_width=900&langs_count=6&theme=dark&hide_border=true&order=2&bg_color=00000000)
 <!-- 
 ![Java](https://img.shields.io/badge/Java-CB2E27?logo=oracle&style=flat-square) 
 ![Laravel](https://img.shields.io/badge/Laravel-CB2E27?logo=laravel&logoColor=white&style=flat-square)
